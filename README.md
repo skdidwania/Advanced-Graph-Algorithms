@@ -1,0 +1,2 @@
+# Advanced-Graph-Algorithms
+Contains the code for the basic graph traversal algorithm , breadth-first search algorithm , depth-first search algorithm,shortest path algorithms,  Dijkstra's algorithm , Bellman-Ford algorithm, spanning trees , union find data structures , Kruskal's algorithm , Prim's algorithm,Kosaraju algorithm , Tarjan algorithm,travelling salesman problem (TSP),eulerian paths and eulerian cycles  Hierholzer algorithm and the Chinese Postman Problem
